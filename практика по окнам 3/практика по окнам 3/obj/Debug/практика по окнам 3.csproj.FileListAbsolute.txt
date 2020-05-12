@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\bin\Debug\практика по окнам 3.exe.config
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\bin\Debug\практика по окнам 3.exe
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\bin\Debug\практика по окнам 3.pdb
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика по окнам 3.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика_по_окнам_3.Form1.resources
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика_по_окнам_3.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика по окнам 3.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика по окнам 3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика по окнам 3.exe
+C:\Users\HP\Desktop\ООП проекты\практика по окнам 3\практика по окнам 3\obj\Debug\практика по окнам 3.pdb
