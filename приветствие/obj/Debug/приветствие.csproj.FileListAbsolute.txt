@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\bin\Debug\приветствие.exe.config
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\bin\Debug\приветствие.exe
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\bin\Debug\приветствие.pdb
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.Form1.resources
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.exe
+C:\Users\HP\Desktop\ООП проекты\Приветствие\приветствие\obj\Debug\приветствие.pdb
