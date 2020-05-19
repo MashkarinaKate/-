@@ -27,10 +27,18 @@ namespace фоновая_6._1_Кнопки
 
         private void ButtonА_Click(object sender, EventArgs e)
         {
-            if(h >= 10)
+            if (h >= 0)
             {
-                buttonB.Left = buttonB.Left - 10;
-                h = h - 10;
+            if(h < 10)
+                {
+                    buttonB.Left = buttonB.Left - (buttonB.Right - buttonB.Width + 1);
+                    h = -1;
+                }
+            if (h >= 10)
+            {
+                    buttonB.Left = buttonB.Left - 10;
+                    h = h - 10;
+            }
             }
             else
             {
