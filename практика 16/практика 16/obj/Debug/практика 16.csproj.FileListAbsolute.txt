@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\bin\Debug\практика 16.exe.config
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\bin\Debug\практика 16.exe
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\bin\Debug\практика 16.pdb
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика 16.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика_16.Form1.resources
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика_16.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика 16.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика 16.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика 16.exe
+C:\Users\HP\Desktop\ООП проекты\практика 16\практика 16\obj\Debug\практика 16.pdb
